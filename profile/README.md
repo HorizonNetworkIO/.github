@@ -1,8 +1,7 @@
 ## Hi there 👋
-### Horizon Network Server Files
-### Horizon Network is a Garry's Mod based gaming community that strives to be the best server Garry's Mod offers.
+### Horizon Network is a Garry's Mod based gaming community that strives to host the best servers Garry's Mod has to offer.
 
-🙋‍ You can get involved by suggesting features and ideas on our Forums. https://www.forums.horizonnetwork.io/index.php?forums/suggestions.4/
+🙋‍ You can get involved by suggesting features and ideas on our [Forums.](https://www.forums.horizonnetwork.io/index.php?forums/suggestions.4/)
 
 # Useful Resources
 [Discord](discord.gg/horizonnetwork.io)
