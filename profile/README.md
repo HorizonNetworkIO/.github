@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Horizon Network is a Garry's Mod based gaming community that strives to host the best servers Garry's Mod has to offer.
+### Horizon Network is a gaming community that strives to host the best servers Garry's Mod has to offer.
 
 🙋‍ You can get involved by suggesting features and ideas on our [Forums.](https://www.forums.horizonnetwork.io/index.php?forums/suggestions.4/)
 
