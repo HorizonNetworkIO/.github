@@ -1,12 +1,13 @@
 ## Hi there 👋
+### Horizon Network Server Files
+### Horizon Network is a Garry's Mod based gaming community that strives to be the best server Garry's Mod offers.
 
-<!--
+🙋‍ You can get involved by suggesting features and ideas on our Forums. https://www.forums.horizonnetwork.io/index.php?forums/suggestions.4/
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Useful Resources
+[Discord](discord.gg/horizonnetwork.io)
+[Webside](https://www.horizonnetwork.io)
+[Store](https://www.store.horizonnetwork.io)
+[Forums](https://www.forums.horizonnetwork.io)
+[Content Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2518077522)
+[Steam Group](https://steamcommunity.com/groups/hznetwork)
