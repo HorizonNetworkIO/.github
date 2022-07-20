@@ -5,7 +5,7 @@
 
 # Useful Resources
 [Discord](discord.gg/horizonnetwork.io)
-[Webside](https://www.horizonnetwork.io)
+[Website](https://www.horizonnetwork.io)
 [Store](https://www.store.horizonnetwork.io)
 [Forums](https://www.forums.horizonnetwork.io)
 [Content Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2518077522)
